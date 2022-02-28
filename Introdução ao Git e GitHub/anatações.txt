@@ -1,0 +1,3 @@
+Link para fazer downloads do livro gratuito em PDF sobre Git e GitHub em Português.
+https://git-scm.com/book/en/v2
+Esse livro é ideal para consolidar seus conhecimetos sobre a tecnologia.
